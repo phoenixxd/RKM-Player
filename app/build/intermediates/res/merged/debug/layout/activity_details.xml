@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="1dp"
+    android:paddingLeft="1dp"
+    android:paddingRight="1dp"
+    android:paddingTop="1dp"
+    tools:context="com.example.anshul.rkmstation.Details">
+
+    <TextView
+        android:text="Forward and Backward buttons shifts the current position by 5 seconds."
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:background="#f4dd8f"
+        android:gravity="center_vertical"
+        android:id="@+id/time_details" />
+
+    <TextView
+        android:text="Long press lyrics button to search lyrics of a particular song."
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/lyrics_details" />
+
+    <TextView
+        android:text="Swipe on screen to change songs."
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:background="#f4dd8f"
+        android:gravity="center_vertical"
+        android:id="@+id/swipe_details" />
+
+    <TextView
+        android:text="Contact us:"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/contact_details" />
+
+    <TextView
+        android:text="Abhishek Mohanty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/abhi_details1" />
+
+    <TextView
+        android:text="7408580446"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/abhi_details2" />
+
+    <TextView
+        android:text="abhishekmohanty660@gmail.com"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/abhi_details3" />
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/break1" />
+
+    <TextView
+        android:text="Anshul Kishore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/ans_details1" />
+
+    <TextView
+        android:text="7607466759"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/ans_details2" />
+
+    <TextView
+        android:text="anshulkishore310@gmail.com"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/ans_details3" />
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/break2" />
+
+    <TextView
+        android:text="Shubhanshu Ranjan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/shu_details1" />
+
+    <TextView
+        android:text="8765201060"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/shu_details2" />
+
+    <TextView
+        android:text="shubhanshu3239@gmail.com"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#d4f79e"
+        android:gravity="center_vertical"
+        android:id="@+id/shu_details3" />
+</LinearLayout>

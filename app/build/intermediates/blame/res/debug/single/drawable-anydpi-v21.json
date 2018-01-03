@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_info_black_24dp.xml",
+        "source": "G:\\RKMSTATION\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml",
+        "source": "G:\\RKMSTATION\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_sync_black_24dp.xml",
+        "source": "G:\\RKMSTATION\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sync_black_24dp.xml"
+    }
+]

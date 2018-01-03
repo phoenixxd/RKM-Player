@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_87b044342edab879ddf004e11db02e0c7b625dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\d4de78d8409e689870c5da99508acf73fcf5e02d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_9419282dc0ea541bc649b9f539e5b9e7a8b410ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\1432631cb22ce40cded4d6882533bf848fa98b44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_1ab6c8d0ba377581fd6e9a50b781da3ec3562157.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\2055e34eb240763dbffe20e337058876cf36c0b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_09715dfec3e5d74aa462e43c8ba602511052cb48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_ea8ac7543051807a4c6b5d9d61fbc3f1d7b11df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\f1cee708c1ad730a68f0a9fcb91d3240f7be86d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_6f044929f5d8f80e467882d5791a454748902227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\eed88503792c168691f81b9ef8b128e8ba7813c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_bd7303ab8509586ef3156ec02e1b641ed3a5d42b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\ca9dc2052c51244db651231da8968da2ac0deb90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_dab3d3384e7c8e2158e239ee9668d66ac22d33a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\93afd83a4556ea9376925f95cfce3643051858f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_94a0c4e31d770734105bd90eea40f6473c190130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\0f45df18b09b3e51eb97a8e603520a3e55454a58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_4f2c86bab6b1c5979c92be89fdcb171766de2963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\9334a7252e773742343a91f625f5e402ae97a6e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_35e1fa2e578871e785fea5e3f3e0184aa0d68826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3_c72a0693833c8376f00ad3c619b0222ed745afbb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\RKMSTATION\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b7a92946b1957d24c346b03489da09096b349be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER-1\.android\build-cache\8cdcd9a19ed46242e3a2f483a659e0ac17e3b20e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\pre-dexed\debug\classes_a3ca8f65a241a9ccf14e2dde56556b454112acdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\RKMSTATION\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fd1fd90e107b4d7b2fbf8b524dece04ed8167d69">
+        <dex dex="G:\RKMSTATION\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3409dcd7558a37f51878f3f21304a3a7bd3a15e1\classes.dex" />
+    </item>
+
+</items>

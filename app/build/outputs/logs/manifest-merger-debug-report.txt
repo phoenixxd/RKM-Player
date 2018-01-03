@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.INTERNET
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:10:5-75:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER-1\.android\build-cache\eed88503792c168691f81b9ef8b128e8ba7813c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\USER-1\.android\build-cache\0f45df18b09b3e51eb97a8e603520a3e55454a58\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\USER-1\.android\build-cache\9334a7252e773742343a91f625f5e402ae97a6e3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\USER-1\.android\build-cache\2055e34eb240763dbffe20e337058876cf36c0b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\USER-1\.android\build-cache\1432631cb22ce40cded4d6882533bf848fa98b44\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\USER-1\.android\build-cache\93afd83a4556ea9376925f95cfce3643051858f5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\USER-1\.android\build-cache\8cdcd9a19ed46242e3a2f483a659e0ac17e3b20e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\USER-1\.android\build-cache\f5cf341ea4406b9c7244d956a93ae475a1317cc7\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\USER-1\.android\build-cache\f1cee708c1ad730a68f0a9fcb91d3240f7be86d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\USER-1\.android\build-cache\d4de78d8409e689870c5da99508acf73fcf5e02d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:15:9-67
+activity#com.example.anshul.rkmstation.LocalList
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:17:9-28:20
+	android:screenOrientation
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:19:13-45
+	android:parentActivityName
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:22:13-51
+	android:theme
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:18:13-38
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.DEFAULT
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:26:27-73
+activity#com.example.anshul.rkmstation.MainList
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:29:9-39:20
+	android:screenOrientation
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:33:13-83
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:30:13-37
+activity#com.example.anshul.rkmstation.UI
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:45:9-56:20
+	android:screenOrientation
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:48:13-45
+	android:launchMode
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:50:13-48
+	android:theme
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:49:13-83
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:46:13-31
+activity#com.example.anshul.rkmstation.Splashscreen
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:57:9-66:20
+	android:screenOrientation
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:59:13-49
+	android:theme
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:60:13-71
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:58:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:61:13-65:29
+category#android.intent.category.LAUNCHER
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:64:27-74
+activity#com.example.anshul.rkmstation.Details
+ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:67:9-74:20
+	android:screenOrientation
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:68:13-49
+	android:theme
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:69:13-83
+	android:name
+		ADDED from G:\RKMSTATION\app\src\main\AndroidManifest.xml:67:19-42
+uses-sdk
+INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER-1\.android\build-cache\eed88503792c168691f81b9ef8b128e8ba7813c9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\USER-1\.android\build-cache\0f45df18b09b3e51eb97a8e603520a3e55454a58\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\USER-1\.android\build-cache\9334a7252e773742343a91f625f5e402ae97a6e3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\USER-1\.android\build-cache\2055e34eb240763dbffe20e337058876cf36c0b7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\USER-1\.android\build-cache\1432631cb22ce40cded4d6882533bf848fa98b44\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\USER-1\.android\build-cache\93afd83a4556ea9376925f95cfce3643051858f5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\USER-1\.android\build-cache\8cdcd9a19ed46242e3a2f483a659e0ac17e3b20e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] C:\Users\USER-1\.android\build-cache\f5cf341ea4406b9c7244d956a93ae475a1317cc7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\USER-1\.android\build-cache\ca9dc2052c51244db651231da8968da2ac0deb90\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\USER-1\.android\build-cache\f1cee708c1ad730a68f0a9fcb91d3240f7be86d3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\USER-1\.android\build-cache\d4de78d8409e689870c5da99508acf73fcf5e02d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER-1\.android\build-cache\eed88503792c168691f81b9ef8b128e8ba7813c9\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+		INJECTED from G:\RKMSTATION\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER-1\.android\build-cache\eed88503792c168691f81b9ef8b128e8ba7813c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\USER-1\.android\build-cache\0f45df18b09b3e51eb97a8e603520a3e55454a58\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\USER-1\.android\build-cache\9334a7252e773742343a91f625f5e402ae97a6e3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\USER-1\.android\build-cache\2055e34eb240763dbffe20e337058876cf36c0b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\USER-1\.android\build-cache\1432631cb22ce40cded4d6882533bf848fa98b44\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\USER-1\.android\build-cache\93afd83a4556ea9376925f95cfce3643051858f5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\USER-1\.android\build-cache\8cdcd9a19ed46242e3a2f483a659e0ac17e3b20e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\USER-1\.android\build-cache\ca9dc2052c51244db651231da8968da2ac0deb90\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\USER-1\.android\build-cache\f1cee708c1ad730a68f0a9fcb91d3240f7be86d3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\USER-1\.android\build-cache\d4de78d8409e689870c5da99508acf73fcf5e02d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER-1\.android\build-cache\eed88503792c168691f81b9ef8b128e8ba7813c9\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER-1\.android\build-cache\eed88503792c168691f81b9ef8b128e8ba7813c9\output\AndroidManifest.xml:26:9-47

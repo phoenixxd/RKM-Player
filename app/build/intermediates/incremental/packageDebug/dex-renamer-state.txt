@@ -1,0 +1,7 @@
+#Wed Jul 05 21:28:06 IST 2017
+base.0=G\:\\RKMSTATION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b7a92946b1957d24c346b03489da09096b349be1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\RKMSTATION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3409dcd7558a37f51878f3f21304a3a7bd3a15e1\\classes.dex
+base.1=G\:\\RKMSTATION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3409dcd7558a37f51878f3f21304a3a7bd3a15e1
+file.0=G\:\\RKMSTATION\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b7a92946b1957d24c346b03489da09096b349be1\\classes.dex

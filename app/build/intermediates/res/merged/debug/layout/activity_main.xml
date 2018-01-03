@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@android:style/Theme.DeviceDefault.Light.DarkActionBar"
+        />
+
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/my_toolbar"
+        android:drawSelectorOnTop="false"
+        android:choiceMode="multipleChoice"
+        android:listSelector="@drawable/selector">
+    </ListView>
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="50sp"
+        android:layout_below="@id/my_toolbar"
+        android:visibility="invisible"
+        android:id="@+id/inputtext"/>
+
+</RelativeLayout>

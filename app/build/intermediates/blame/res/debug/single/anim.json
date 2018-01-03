@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate.xml",
+        "source": "G:\\RKMSTATION\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alpha.xml",
+        "source": "G:\\RKMSTATION\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate2.xml",
+        "source": "G:\\RKMSTATION\\app\\src\\main\\res\\anim\\translate2.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\linear_interpolator.xml",
+        "source": "G:\\RKMSTATION\\app\\src\\main\\res\\anim\\linear_interpolator.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\USER-1\\.android\\build-cache\\eed88503792c168691f81b9ef8b128e8ba7813c9\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

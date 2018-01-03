@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/addtoplaylist"
+        android:icon="@drawable/plus"
+        android:title="Playing Now"
+        android:visible="false"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/deleteplaylist"
+        android:icon="@drawable/dustbin"
+        android:title="Playing Now"
+        android:visible="false"
+        app:showAsAction="always"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/playingnow"
+        android:icon="@drawable/play2"
+        android:title="Playing Now"
+        android:visible="true"
+        app:showAsAction="always"/>
+
+</menu>

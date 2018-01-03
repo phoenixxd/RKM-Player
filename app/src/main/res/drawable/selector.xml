@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Selected -->
+    <item
+        android:state_focused="true"
+        android:state_selected="false"
+        android:drawable="@color/material_deep_teal_500"/>
+
+    <!-- Pressed -->
+    <item
+        android:state_activated="true"
+        android:drawable="@color/accent_material_dark" />
+
+</selector>

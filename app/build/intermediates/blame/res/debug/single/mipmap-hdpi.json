@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon.png",
+        "source": "G:\\RKMSTATION\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\RKMSTATION\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\RKMSTATION\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
